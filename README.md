@@ -48,3 +48,4 @@ Contributors
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
+[![Run on Repl.it](https://repl.it/badge/github/Kusariibe/treelib)](https://repl.it/github/Kusariibe/treelib)
