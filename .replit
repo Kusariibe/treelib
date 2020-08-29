@@ -1,0 +1,2 @@
+language = "python3"
+run = "sudo easy_install -U treelib"
